@@ -19,7 +19,7 @@
     "example": "npm run build && tsx examples/express-app/server.ts"
   },
   "keywords": ["rate-limiter", "redis", "express", "middleware", "sliding-window", "atomic-rate-limiter", "api-limit"],
-  "author": "Aryan Kaushal",
+  "author": "Drishti Middha",
   "license": "MIT",
   "description": "A high-performance Redis rate-limiter using sliding window log algorithms, with out-of-the-box Express middleware support.",
   "dependencies": {
