@@ -123,7 +123,7 @@ atomic-rate-limiter/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/drishtim24/Rate-Limiter-Package.git
+git clone https://github.com/drishtim24/221091549_2210990556.git
 cd drishti-rate-limiter
 ```
 
